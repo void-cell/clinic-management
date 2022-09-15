@@ -1,8 +1,8 @@
-# Clinic Manager
+# Clinic Management
 
 ## About
 
-Clinic Manager lets you manage patients/doctors and schedule appointments.
+Clinic Management lets you manage patients/doctors and schedule appointments.
 
 <picture>
  <img src="screen.png" alt="screenshot" >
